@@ -61,7 +61,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider9"
@@ -74,7 +74,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider12"
@@ -87,7 +87,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
         </TableRow>
 
         <View
@@ -105,7 +105,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider10"
@@ -118,7 +118,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider13"
@@ -131,7 +131,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
         </TableRow>
 
         <View
@@ -149,7 +149,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider11"
@@ -162,7 +162,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
 
             <View
                 android:id="@+id/divider14"
@@ -175,7 +175,7 @@
                 android:layout_width="50pt"
                 android:layout_height="50pt"
                 android:background="@color/darkColor"
-                android:onClick="signPlaced" />
+                android:onClick="ticTacToeButtonPress" />
         </TableRow>
     </TableLayout>
 
